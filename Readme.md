@@ -1,3 +1,5 @@
 # Projeto 01
 
-Este e o meu primeiro Projeto, utlizando **Git** e **GitHub**.
+Este é o meu primeiro Projeto, utilizando **Git** e **GitHub**.
+
+Adicionando mais uma atualização do Readme.nd.
